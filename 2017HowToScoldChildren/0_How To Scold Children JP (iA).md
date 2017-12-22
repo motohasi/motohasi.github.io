@@ -1,5 +1,11 @@
 Title: 子どものしかりかた
 Date: December 22, 2017
+Author: Masanari Motohasi
+
+- Title: 子どものしかりかた
+- Date: December 22, 2017
+- Author: Masanari Motohasi
+
 
 # 目次
 
@@ -19,4 +25,3 @@ Date: December 22, 2017
 /6_子どもの叱り方.md
 +++
 /7_おわりに.md
-
