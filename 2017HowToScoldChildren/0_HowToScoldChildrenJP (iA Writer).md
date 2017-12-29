@@ -1,6 +1,6 @@
 Title: 子どものしかりかた
 Date: December 22, 2017
-Author: Masanari Motohasi  
+Author: @motohasi  
 
 
 - Title: [%Title]
@@ -11,6 +11,7 @@ Author: Masanari Motohasi
 # 目次
 
 {{TOC}}
+
 
 +++
 /1_はじめに.md
@@ -26,3 +27,7 @@ Author: Masanari Motohasi
 /6_なぜしかるか.md
 +++
 /7_おわりに.md
+
+![20110326145438.jpg](20110326145438.jpg)
+
+初出の[はてなブログ Entries in 子どものしかりかた category - ari's world](http://motohasi.hatenablog.com/archive/category/子どものしかりかた) をまとめました．
