@@ -130,7 +130,7 @@ VUCAを伴って、ソフトウェアエンジニアリングの本質的な困�
 
 どのような要因も「知が働く」ことが共通となってきます。そこで著者は、自転車に乗っているときに思いつき「知働化」を名付け、皆様に受け入れていただきました [^exekt-lab]。
 
-[^exekt-lab]: http://www.exekt-lab.org 名付けについてのメモは現在はアクセスできない。
+[^exekt-lab]: http://www.exekt-lab.org
 
 研究会では、幅広い領域について深く議論していきますが、「知働化」そのものにについての共通認識はありません。参加者も、それぞれの想いを持っているため独立して議論しています。
 
@@ -208,7 +208,7 @@ print('今日は'+random.choice(our_lunches))
 
 法律の例を見てみましょう。道路交通法の第七十条は、運転者が車両を確実に操作し、他人に危害を及ぼさないような速度と方法で運転しなければならないことを定めています。この法律は単なる文字の列ですが、実際の道路や標識、警察、運転者などのシステムの中で運用され、安全な交通環境を実現するための実行可能な知識として機能しています。
 
-![胎蔵界 via https://en.wikipedia.org/wiki/Mandala](../_resources/Taizokai-3.jpg)
+![胎蔵界 via https://en.wikipedia.org/wiki/Mandala](../_resources/Taizokai-4.jpg)
 
 同様に、曼荼羅も単なる色の濃淡の模様ですが、それを読み取り、知識が働き、心に影響を与えます。曼荼羅は宗教的な象徴や思想を表現する手法であり、観る人の心を静めたり、瞑想を促したりする役割を果たします。これは単なる図像だけではなく、知識として働き、人々の内面に深い影響を与える実行可能な知識です。
 
@@ -362,7 +362,7 @@ print('今日は'+random.choice(our_lunches))
 
 <div class="page"/>
 
-![YURUism: Embracing the Art of Relaxation for Limitless Possibilities](../_resources/YURUism-TitlePage.drawio-3.png)
+![YURUism: Embracing the Art of Relaxation for Limitless Possibilities](../_resources/YURUism-TitlePage.drawio-4.png)
 
 
 
